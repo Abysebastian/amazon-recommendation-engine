@@ -70,7 +70,7 @@ Verified purchase was used as a proxy for relevance.
 ## 🚀 Deployment
 The dashboard is deployed using Streamlit Cloud.
 
-👉 Live App: [Add your link here]
+👉 Live App: https://vtzsoiwzxlr5dy6ayszyzq.streamlit.app
 
 ---
 
